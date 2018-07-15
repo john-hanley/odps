@@ -35,7 +35,7 @@ In the preceding example resource alias **resName** refers to different resource
 set [<KEY>=<VALUE>]
 ```
 
-**Actioin:**
+**Action:**
 
 You can use the set command to set MaxCompute or a user-defined system variables that affects the MaxCompute operation.
 
